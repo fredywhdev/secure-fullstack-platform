@@ -187,7 +187,7 @@ Docker Compose
 
 ### Pasos
 ```text
-git clone https://github.com/tuusuario/secure-fullstack-platform.git
+git clone https://github.com/fredywhdev/secure-fullstack-platform.git
 cd secure-fullstack-platform
 cp .env.example .env
 docker compose up -d --build

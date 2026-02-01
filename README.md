@@ -239,6 +239,14 @@ Roles avanzados
 
 Deploy en cloud (AWS / GCP / Azure)
 
+Integración real con AKS
+
+Terraform para Azure
+
+GitOps con ArgoCD
+
+Dashboards avanzados de observabilidad
+
 ## 👤 Autor
 
 ### Fredy Hernandez
